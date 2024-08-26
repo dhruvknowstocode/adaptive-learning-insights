@@ -1,0 +1,22 @@
+{
+  "name": "adaptive-learning-curve",
+  "version": "1.0.0",
+  "description": "An npm package for tracking and analyzing learning progress with adaptive recommendations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruv Jain",
+  "license": "ISC",
+  "keywords": [
+    "learning",
+    "education",
+    "analytics",
+    "progress",
+    "adaptive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/adaptive-learning-curve.git"
+  }
+}
