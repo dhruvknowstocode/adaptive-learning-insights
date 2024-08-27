@@ -1,6 +1,6 @@
 {
   "name": "adaptive-learning-curve",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An npm package for tracking and analyzing learning progress with adaptive recommendations.",
   "main": "index.js",
   "scripts": {

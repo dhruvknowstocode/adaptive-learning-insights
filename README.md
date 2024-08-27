@@ -16,7 +16,7 @@ npm install adaptive-learning-insights
 Here’s an example of how to use the `trackLearningCurve` function from the `adaptive-learning-insights` package:
 
 ```javascript
-const trackLearningCurve = require('adaptive-learning-insights');
+const trackLearningCurve = require('adaptive-learning-curve');
 
 const data = {
     timeSpent: 40, // Total hours spent learning
